@@ -1,0 +1,925 @@
+Community Reporting Area,Census Tract,Race,Id,Path,% Without Health Insurance,Estimate!!Total!!19 to 64 years,Estimate!!Total!!19 to 64 years!!With health insurance coverage
+Whittier Heights,33,White Alone,1400000US53033003300,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,2%,4892,4796
+Whittier Heights,30,White Alone,1400000US53033003000,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,4%,3667,3504
+Whittier Heights,33,Black / African American Alone,1400000US53033003300,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,16%,111,93
+Whittier Heights,30,Black / African American Alone,1400000US53033003000,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,16,16
+Whittier Heights,33,American Indian & Alaska Native Alone,1400000US53033003300,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Whittier Heights,30,American Indian & Alaska Native Alone,1400000US53033003000,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Whittier Heights,33,Asian Alone,1400000US53033003300,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,442,442
+Whittier Heights,33,Native Hawaiian & Other Pacific Islander Alone,1400000US53033003300,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Whittier Heights,33,Some Other Race Alone,1400000US53033003300,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,35%,107,70
+Whittier Heights,33,2+ Races,1400000US53033003300,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,283,283
+Whittier Heights,30,Asian Alone,1400000US53033003000,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,11%,297,263
+Whittier Heights,30,Native Hawaiian & Other Pacific Islander Alone,1400000US53033003000,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Whittier Heights,30,Some Other Race Alone,1400000US53033003000,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,81%,105,20
+Whittier Heights,30,2+ Races,1400000US53033003000,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,194,194
+West Seattle Junction/Genesee Hill,105,White Alone,1400000US53033010500,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,5%,4726,4512
+West Seattle Junction/Genesee Hill,97.02,White Alone,1400000US53033009702,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,3%,2915,2825
+West Seattle Junction/Genesee Hill,98,White Alone,1400000US53033009800,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,2%,3915,3855
+West Seattle Junction/Genesee Hill,105,Black / African American Alone,1400000US53033010500,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,8%,196,181
+West Seattle Junction/Genesee Hill,97.02,Black / African American Alone,1400000US53033009702,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,78,78
+West Seattle Junction/Genesee Hill,98,Black / African American Alone,1400000US53033009800,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,76,76
+West Seattle Junction/Genesee Hill,105,American Indian & Alaska Native Alone,1400000US53033010500,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,61,61
+West Seattle Junction/Genesee Hill,97.02,American Indian & Alaska Native Alone,1400000US53033009702,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,22,22
+West Seattle Junction/Genesee Hill,98,American Indian & Alaska Native Alone,1400000US53033009800,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+West Seattle Junction/Genesee Hill,98,Asian Alone,1400000US53033009800,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,378,378
+West Seattle Junction/Genesee Hill,98,Native Hawaiian & Other Pacific Islander Alone,1400000US53033009800,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+West Seattle Junction/Genesee Hill,98,Some Other Race Alone,1400000US53033009800,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,48,48
+West Seattle Junction/Genesee Hill,98,2+ Races,1400000US53033009800,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,262,262
+West Seattle Junction/Genesee Hill,97.02,Asian Alone,1400000US53033009702,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,187,187
+West Seattle Junction/Genesee Hill,97.02,Native Hawaiian & Other Pacific Islander Alone,1400000US53033009702,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,0%,13,13
+West Seattle Junction/Genesee Hill,97.02,Some Other Race Alone,1400000US53033009702,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,14,14
+West Seattle Junction/Genesee Hill,97.02,2+ Races,1400000US53033009702,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,36%,158,101
+West Seattle Junction/Genesee Hill,105,Asian Alone,1400000US53033010500,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,3%,533,519
+West Seattle Junction/Genesee Hill,105,Native Hawaiian & Other Pacific Islander Alone,1400000US53033010500,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+West Seattle Junction/Genesee Hill,105,Some Other Race Alone,1400000US53033010500,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,46%,28,15
+West Seattle Junction/Genesee Hill,105,2+ Races,1400000US53033010500,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,341,341
+Wedgwood/View Ridge,21,White Alone,1400000US53033002100,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,5%,2271,2155
+Wedgwood/View Ridge,39,White Alone,1400000US53033003900,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,6%,1498,1405
+Wedgwood/View Ridge,22,White Alone,1400000US53033002200,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,1%,2876,2838
+Wedgwood/View Ridge,24,White Alone,1400000US53033002400,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,1%,1651,1630
+Wedgwood/View Ridge,21,Black / African American Alone,1400000US53033002100,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,43,43
+Wedgwood/View Ridge,39,Black / African American Alone,1400000US53033003900,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,9,9
+Wedgwood/View Ridge,22,Black / African American Alone,1400000US53033002200,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,5,5
+Wedgwood/View Ridge,24,Black / African American Alone,1400000US53033002400,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,12,12
+Wedgwood/View Ridge,21,American Indian & Alaska Native Alone,1400000US53033002100,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Wedgwood/View Ridge,39,American Indian & Alaska Native Alone,1400000US53033003900,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,21,21
+Wedgwood/View Ridge,22,American Indian & Alaska Native Alone,1400000US53033002200,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Wedgwood/View Ridge,24,American Indian & Alaska Native Alone,1400000US53033002400,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Wedgwood/View Ridge,22,Asian Alone,1400000US53033002200,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,438,438
+Wedgwood/View Ridge,22,Native Hawaiian & Other Pacific Islander Alone,1400000US53033002200,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,0%,13,13
+Wedgwood/View Ridge,22,Some Other Race Alone,1400000US53033002200,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,14,14
+Wedgwood/View Ridge,22,2+ Races,1400000US53033002200,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,99,99
+Wedgwood/View Ridge,39,Asian Alone,1400000US53033003900,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,5%,193,183
+Wedgwood/View Ridge,39,Native Hawaiian & Other Pacific Islander Alone,1400000US53033003900,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Wedgwood/View Ridge,39,Some Other Race Alone,1400000US53033003900,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,30,30
+Wedgwood/View Ridge,39,2+ Races,1400000US53033003900,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,87,87
+Wedgwood/View Ridge,21,Asian Alone,1400000US53033002100,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,8%,453,419
+Wedgwood/View Ridge,21,Native Hawaiian & Other Pacific Islander Alone,1400000US53033002100,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Wedgwood/View Ridge,21,Some Other Race Alone,1400000US53033002100,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,11%,80,71
+Wedgwood/View Ridge,21,2+ Races,1400000US53033002100,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,61,61
+Wedgwood/View Ridge,24,Asian Alone,1400000US53033002400,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,4%,235,225
+Wedgwood/View Ridge,24,Native Hawaiian & Other Pacific Islander Alone,1400000US53033002400,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,0%,8,8
+Wedgwood/View Ridge,24,Some Other Race Alone,1400000US53033002400,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,15,15
+Wedgwood/View Ridge,24,2+ Races,1400000US53033002400,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,66,66
+Wallingford,45,White Alone,1400000US53033004500,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,3%,1966,1913
+Wallingford,51,White Alone,1400000US53033005100,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,5%,2202,2101
+Wallingford,52,White Alone,1400000US53033005200,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,3%,3000,2898
+Wallingford,50,White Alone,1400000US53033005000,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,3%,2650,2570
+Wallingford,45,Black / African American Alone,1400000US53033004500,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,56,56
+Wallingford,51,Black / African American Alone,1400000US53033005100,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,100%,18,0
+Wallingford,52,Black / African American Alone,1400000US53033005200,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,100,100
+Wallingford,50,Black / African American Alone,1400000US53033005000,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,20,20
+Wallingford,45,American Indian & Alaska Native Alone,1400000US53033004500,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,40%,5,3
+Wallingford,51,American Indian & Alaska Native Alone,1400000US53033005100,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Wallingford,52,American Indian & Alaska Native Alone,1400000US53033005200,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Wallingford,51,Asian Alone,1400000US53033005100,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,8%,210,193
+Wallingford,51,Native Hawaiian & Other Pacific Islander Alone,1400000US53033005100,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Wallingford,51,Some Other Race Alone,1400000US53033005100,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,66,66
+Wallingford,51,2+ Races,1400000US53033005100,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,87,87
+Wallingford,50,American Indian & Alaska Native Alone,1400000US53033005000,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,14,14
+Wallingford,50,Asian Alone,1400000US53033005000,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,239,239
+Wallingford,50,Native Hawaiian & Other Pacific Islander Alone,1400000US53033005000,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,0%,20,20
+Wallingford,50,Some Other Race Alone,1400000US53033005000,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,16.48739,0,0
+Wallingford,50,2+ Races,1400000US53033005000,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,121,121
+Wallingford,45,Asian Alone,1400000US53033004500,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,460,460
+Wallingford,45,Native Hawaiian & Other Pacific Islander Alone,1400000US53033004500,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Wallingford,45,Some Other Race Alone,1400000US53033004500,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,86,86
+Wallingford,45,2+ Races,1400000US53033004500,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,48,48
+Wallingford,52,Asian Alone,1400000US53033005200,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,7%,2234,2067
+Wallingford,52,Native Hawaiian & Other Pacific Islander Alone,1400000US53033005200,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,0%,33,33
+Wallingford,52,Some Other Race Alone,1400000US53033005200,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,49,49
+Wallingford,52,2+ Races,1400000US53033005200,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,380,380
+University District,44,White Alone,1400000US53033004400,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,4%,4790,4603
+University District,53.01,White Alone,1400000US53033005301,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,4%,3147,3013
+University District,53.02,White Alone,1400000US53033005302,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,3%,1502,1450
+University District,44,Black / African American Alone,1400000US53033004400,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,31%,156,107
+University District,53.01,Black / African American Alone,1400000US53033005301,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,13%,238,207
+University District,53.02,Black / African American Alone,1400000US53033005302,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,99,99
+University District,53.01,American Indian & Alaska Native Alone,1400000US53033005301,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,48%,161,83
+University District,53.01,Asian Alone,1400000US53033005301,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,15%,2952,2503
+University District,53.01,Native Hawaiian & Other Pacific Islander Alone,1400000US53033005301,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,0%,20,20
+University District,53.01,Some Other Race Alone,1400000US53033005301,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,18%,91,75
+University District,53.01,2+ Races,1400000US53033005301,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,4%,535,514
+University District,53.02,American Indian & Alaska Native Alone,1400000US53033005302,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,59%,29,12
+University District,53.02,Asian Alone,1400000US53033005302,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,8%,1134,1045
+University District,53.02,Native Hawaiian & Other Pacific Islander Alone,1400000US53033005302,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,0%,10,10
+University District,53.02,Some Other Race Alone,1400000US53033005302,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,16%,31,26
+University District,53.02,2+ Races,1400000US53033005302,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,377,377
+University District,44,American Indian & Alaska Native Alone,1400000US53033004400,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+University District,44,Asian Alone,1400000US53033004400,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,7%,857,799
+University District,44,Native Hawaiian & Other Pacific Islander Alone,1400000US53033004400,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+University District,44,Some Other Race Alone,1400000US53033004400,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,8%,213,197
+University District,44,2+ Races,1400000US53033004400,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,5%,428,407
+Sunset Hill/Loyal Heights,31,White Alone,1400000US53033003100,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,1%,3745,3701
+Sunset Hill/Loyal Heights,32,White Alone,1400000US53033003200,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,4%,5519,5325
+Sunset Hill/Loyal Heights,31,Black / African American Alone,1400000US53033003100,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,8.968504,0,0
+Sunset Hill/Loyal Heights,32,Black / African American Alone,1400000US53033003200,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,33,33
+Sunset Hill/Loyal Heights,31,American Indian & Alaska Native Alone,1400000US53033003100,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,31,31
+Sunset Hill/Loyal Heights,32,American Indian & Alaska Native Alone,1400000US53033003200,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,26,26
+Sunset Hill/Loyal Heights,31,Asian Alone,1400000US53033003100,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,158,158
+Sunset Hill/Loyal Heights,31,Native Hawaiian & Other Pacific Islander Alone,1400000US53033003100,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Sunset Hill/Loyal Heights,31,Some Other Race Alone,1400000US53033003100,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,16.48739,0,0
+Sunset Hill/Loyal Heights,31,2+ Races,1400000US53033003100,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,130,130
+Sunset Hill/Loyal Heights,32,Asian Alone,1400000US53033003200,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,306,306
+Sunset Hill/Loyal Heights,32,Native Hawaiian & Other Pacific Islander Alone,1400000US53033003200,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Sunset Hill/Loyal Heights,32,Some Other Race Alone,1400000US53033003200,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,107,107
+Sunset Hill/Loyal Heights,32,2+ Races,1400000US53033003200,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,8%,270,249
+South Park,112,White Alone,1400000US53033011200,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,14%,1156,999
+South Park,112,Black / African American Alone,1400000US53033011200,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,29%,95,67
+South Park,112,American Indian & Alaska Native Alone,1400000US53033011200,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,20,20
+South Park,112,Asian Alone,1400000US53033011200,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,21%,340,269
+South Park,112,Native Hawaiian & Other Pacific Islander Alone,1400000US53033011200,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,46%,110,59
+South Park,112,Some Other Race Alone,1400000US53033011200,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,62%,383,145
+South Park,112,2+ Races,1400000US53033011200,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,37%,144,91
+South Beacon Hill/NewHolly,117,White Alone,1400000US53033011700,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,5%,546,517
+South Beacon Hill/NewHolly,110.01,White Alone,1400000US53033011001,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,4%,561,539
+South Beacon Hill/NewHolly,110.02,White Alone,1400000US53033011002,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,12%,334,293
+South Beacon Hill/NewHolly,117,Black / African American Alone,1400000US53033011700,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,16%,881,741
+South Beacon Hill/NewHolly,110.01,Black / African American Alone,1400000US53033011001,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,12%,699,612
+South Beacon Hill/NewHolly,110.02,Black / African American Alone,1400000US53033011002,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,465,465
+South Beacon Hill/NewHolly,117,American Indian & Alaska Native Alone,1400000US53033011700,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,30,30
+South Beacon Hill/NewHolly,110.02,American Indian & Alaska Native Alone,1400000US53033011002,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,28%,47,34
+South Beacon Hill/NewHolly,110.01,American Indian & Alaska Native Alone,1400000US53033011001,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,10,10
+South Beacon Hill/NewHolly,117,Asian Alone,1400000US53033011700,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,9%,1503,1374
+South Beacon Hill/NewHolly,110.02,Asian Alone,1400000US53033011002,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,5%,1582,1496
+South Beacon Hill/NewHolly,110.01,Asian Alone,1400000US53033011001,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,21%,1036,820
+South Beacon Hill/NewHolly,117,Native Hawaiian & Other Pacific Islander Alone,1400000US53033011700,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,0%,132,132
+South Beacon Hill/NewHolly,110.02,Native Hawaiian & Other Pacific Islander Alone,1400000US53033011002,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+South Beacon Hill/NewHolly,110.01,Native Hawaiian & Other Pacific Islander Alone,1400000US53033011001,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,0%,23,23
+South Beacon Hill/NewHolly,117,Some Other Race Alone,1400000US53033011700,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,36,36
+South Beacon Hill/NewHolly,110.02,Some Other Race Alone,1400000US53033011002,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,15%,59,50
+South Beacon Hill/NewHolly,110.01,Some Other Race Alone,1400000US53033011001,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,26%,136,101
+South Beacon Hill/NewHolly,117,2+ Races,1400000US53033011700,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,16%,304,256
+South Beacon Hill/NewHolly,110.02,2+ Races,1400000US53033011002,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,21%,53,42
+South Beacon Hill/NewHolly,110.01,2+ Races,1400000US53033011001,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,17%,59,49
+Seward Park,111.02,White Alone,1400000US53033011102,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,4%,1595,1535
+Seward Park,102,White Alone,1400000US53033010200,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,2%,2067,2029
+Seward Park,111.02,Black / African American Alone,1400000US53033011102,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,14%,274,235
+Seward Park,102,Black / African American Alone,1400000US53033010200,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,2%,326,318
+Seward Park,111.02,American Indian & Alaska Native Alone,1400000US53033011102,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Seward Park,102,American Indian & Alaska Native Alone,1400000US53033010200,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,5,5
+Seward Park,111.02,Asian Alone,1400000US53033011102,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,21%,706,556
+Seward Park,111.02,Native Hawaiian & Other Pacific Islander Alone,1400000US53033011102,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Seward Park,111.02,Some Other Race Alone,1400000US53033011102,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,42%,383,223
+Seward Park,111.02,2+ Races,1400000US53033011102,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,13%,150,130
+Seward Park,102,Asian Alone,1400000US53033010200,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,2%,468,457
+Seward Park,102,Native Hawaiian & Other Pacific Islander Alone,1400000US53033010200,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Seward Park,102,Some Other Race Alone,1400000US53033010200,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,45,45
+Seward Park,102,2+ Races,1400000US53033010200,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,96,96
+Roxhill/Westwood,115,White Alone,1400000US53033011500,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,3%,2596,2530
+Roxhill/Westwood,114.01,White Alone,1400000US53033011401,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,9%,1760,1604
+Roxhill/Westwood,114.02,White Alone,1400000US53033011402,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,12%,1378,1218
+Roxhill/Westwood,115,Black / African American Alone,1400000US53033011500,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,121,121
+Roxhill/Westwood,114.01,Black / African American Alone,1400000US53033011401,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,10%,450,405
+Roxhill/Westwood,114.02,Black / African American Alone,1400000US53033011402,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,18%,261,215
+Roxhill/Westwood,115,American Indian & Alaska Native Alone,1400000US53033011500,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Roxhill/Westwood,114.02,American Indian & Alaska Native Alone,1400000US53033011402,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,8,8
+Roxhill/Westwood,114.01,American Indian & Alaska Native Alone,1400000US53033011401,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,100%,33,0
+Roxhill/Westwood,114.02,Asian Alone,1400000US53033011402,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,8%,425,392
+Roxhill/Westwood,114.01,Asian Alone,1400000US53033011401,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,3%,460,448
+Roxhill/Westwood,114.02,Native Hawaiian & Other Pacific Islander Alone,1400000US53033011402,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,0%,49,49
+Roxhill/Westwood,114.01,Native Hawaiian & Other Pacific Islander Alone,1400000US53033011401,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,0%,10,10
+Roxhill/Westwood,114.02,Some Other Race Alone,1400000US53033011402,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,34%,427,282
+Roxhill/Westwood,114.01,Some Other Race Alone,1400000US53033011401,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,33%,228,153
+Roxhill/Westwood,114.02,2+ Races,1400000US53033011402,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,9%,230,209
+Roxhill/Westwood,114.01,2+ Races,1400000US53033011401,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,14%,231,198
+Roxhill/Westwood,115,Asian Alone,1400000US53033011500,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,328,328
+Roxhill/Westwood,115,Native Hawaiian & Other Pacific Islander Alone,1400000US53033011500,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Roxhill/Westwood,115,Some Other Race Alone,1400000US53033011500,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,7%,55,51
+Roxhill/Westwood,115,2+ Races,1400000US53033011500,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,10%,106,95
+Riverview,108,White Alone,1400000US53033010800,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,4%,1926,1842
+Riverview,108,Black / African American Alone,1400000US53033010800,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,312,312
+Riverview,108,American Indian & Alaska Native Alone,1400000US53033010800,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Riverview,108,Asian Alone,1400000US53033010800,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,8%,717,658
+Riverview,108,Native Hawaiian & Other Pacific Islander Alone,1400000US53033010800,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,0%,65,65
+Riverview,108,Some Other Race Alone,1400000US53033010800,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,2%,43,42
+Riverview,108,2+ Races,1400000US53033010800,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,165,165
+Ravenna/Bryant,38,White Alone,1400000US53033003800,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,5%,1190,1131
+Ravenna/Bryant,25,White Alone,1400000US53033002500,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,8%,1873,1728
+Ravenna/Bryant,26,White Alone,1400000US53033002600,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,4%,2818,2708
+Ravenna/Bryant,42,White Alone,1400000US53033004200,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,0%,4406,4391
+Ravenna/Bryant,43.01,White Alone,1400000US53033004301,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,7%,1926,1797
+Ravenna/Bryant,43.02,White Alone,1400000US53033004302,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,5%,1677,1591
+Ravenna/Bryant,38,Black / African American Alone,1400000US53033003800,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,6,6
+Ravenna/Bryant,25,Black / African American Alone,1400000US53033002500,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,13,13
+Ravenna/Bryant,26,Black / African American Alone,1400000US53033002600,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,48,48
+Ravenna/Bryant,42,Black / African American Alone,1400000US53033004200,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,74,74
+Ravenna/Bryant,43.01,Black / African American Alone,1400000US53033004301,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,10%,41,37
+Ravenna/Bryant,43.02,Black / African American Alone,1400000US53033004302,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,10%,116,104
+Ravenna/Bryant,38,American Indian & Alaska Native Alone,1400000US53033003800,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Ravenna/Bryant,25,American Indian & Alaska Native Alone,1400000US53033002500,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Ravenna/Bryant,26,American Indian & Alaska Native Alone,1400000US53033002600,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Ravenna/Bryant,42,American Indian & Alaska Native Alone,1400000US53033004200,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Ravenna/Bryant,42,Asian Alone,1400000US53033004200,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,630,630
+Ravenna/Bryant,42,Native Hawaiian & Other Pacific Islander Alone,1400000US53033004200,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Ravenna/Bryant,42,Some Other Race Alone,1400000US53033004200,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,15,15
+Ravenna/Bryant,42,2+ Races,1400000US53033004200,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,190,190
+Ravenna/Bryant,43.02,American Indian & Alaska Native Alone,1400000US53033004302,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,8,8
+Ravenna/Bryant,43.02,Asian Alone,1400000US53033004302,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,8%,1313,1209
+Ravenna/Bryant,43.02,Native Hawaiian & Other Pacific Islander Alone,1400000US53033004302,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Ravenna/Bryant,43.02,Some Other Race Alone,1400000US53033004302,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,22,22
+Ravenna/Bryant,43.02,2+ Races,1400000US53033004302,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,8%,208,192
+Ravenna/Bryant,38,Asian Alone,1400000US53033003800,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,4%,191,183
+Ravenna/Bryant,38,Native Hawaiian & Other Pacific Islander Alone,1400000US53033003800,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Ravenna/Bryant,38,Some Other Race Alone,1400000US53033003800,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,16.48739,0,0
+Ravenna/Bryant,38,2+ Races,1400000US53033003800,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,75,75
+Ravenna/Bryant,25,Asian Alone,1400000US53033002500,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,5%,209,199
+Ravenna/Bryant,25,Native Hawaiian & Other Pacific Islander Alone,1400000US53033002500,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Ravenna/Bryant,25,Some Other Race Alone,1400000US53033002500,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,10,10
+Ravenna/Bryant,25,2+ Races,1400000US53033002500,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,116,116
+Ravenna/Bryant,43.01,American Indian & Alaska Native Alone,1400000US53033004301,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Ravenna/Bryant,43.01,Asian Alone,1400000US53033004301,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,5%,464,441
+Ravenna/Bryant,43.01,Native Hawaiian & Other Pacific Islander Alone,1400000US53033004301,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Ravenna/Bryant,43.01,Some Other Race Alone,1400000US53033004301,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,97,97
+Ravenna/Bryant,43.01,2+ Races,1400000US53033004301,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,89,89
+Ravenna/Bryant,26,Asian Alone,1400000US53033002600,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,3%,388,378
+Ravenna/Bryant,26,Native Hawaiian & Other Pacific Islander Alone,1400000US53033002600,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Ravenna/Bryant,26,Some Other Race Alone,1400000US53033002600,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,41%,49,29
+Ravenna/Bryant,26,2+ Races,1400000US53033002600,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,174,174
+Rainier Beach,118,White Alone,1400000US53033011800,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,17%,1286,1070
+Rainier Beach,119,White Alone,1400000US53033011900,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,5%,1753,1671
+Rainier Beach,118,Black / African American Alone,1400000US53033011800,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,7%,1611,1495
+Rainier Beach,119,Black / African American Alone,1400000US53033011900,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,3%,1111,1073
+Rainier Beach,118,American Indian & Alaska Native Alone,1400000US53033011800,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,16%,32,27
+Rainier Beach,119,American Indian & Alaska Native Alone,1400000US53033011900,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,3%,69,67
+Rainier Beach,119,Asian Alone,1400000US53033011900,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,9%,1693,1544
+Rainier Beach,118,Asian Alone,1400000US53033011800,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,9%,1315,1193
+Rainier Beach,119,Native Hawaiian & Other Pacific Islander Alone,1400000US53033011900,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Rainier Beach,118,Native Hawaiian & Other Pacific Islander Alone,1400000US53033011800,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,0%,21,21
+Rainier Beach,119,Some Other Race Alone,1400000US53033011900,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,28%,47,34
+Rainier Beach,118,Some Other Race Alone,1400000US53033011800,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,39%,386,237
+Rainier Beach,119,2+ Races,1400000US53033011900,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,41%,301,179
+Rainier Beach,118,2+ Races,1400000US53033011800,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,29%,647,457
+Queen Anne,67,White Alone,1400000US53033006700,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,5%,5149,4869
+Queen Anne,60,White Alone,1400000US53033006000,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,3%,3649,3555
+Queen Anne,70,White Alone,1400000US53033007000,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,4%,4637,4436
+Queen Anne,69,White Alone,1400000US53033006900,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,2%,2999,2931
+Queen Anne,59,White Alone,1400000US53033005900,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,5%,4658,4419
+Queen Anne,68,White Alone,1400000US53033006800,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,1%,1949,1932
+Queen Anne,71,White Alone,1400000US53033007100,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,4%,2961,2837
+Queen Anne,67,Black / African American Alone,1400000US53033006700,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,69,69
+Queen Anne,60,Black / African American Alone,1400000US53033006000,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,65,65
+Queen Anne,70,Black / African American Alone,1400000US53033007000,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,63,63
+Queen Anne,69,Black / African American Alone,1400000US53033006900,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,8.968504,0,0
+Queen Anne,59,Black / African American Alone,1400000US53033005900,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,24%,127,96
+Queen Anne,68,Black / African American Alone,1400000US53033006800,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,8.968504,0,0
+Queen Anne,71,Black / African American Alone,1400000US53033007100,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,4%,148,142
+Queen Anne,67,American Indian & Alaska Native Alone,1400000US53033006700,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Queen Anne,60,American Indian & Alaska Native Alone,1400000US53033006000,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,17,17
+Queen Anne,70,American Indian & Alaska Native Alone,1400000US53033007000,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,65,65
+Queen Anne,69,American Indian & Alaska Native Alone,1400000US53033006900,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Queen Anne,59,American Indian & Alaska Native Alone,1400000US53033005900,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,11,11
+Queen Anne,67,Asian Alone,1400000US53033006700,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,1%,2485,2455
+Queen Anne,67,Native Hawaiian & Other Pacific Islander Alone,1400000US53033006700,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Queen Anne,67,Some Other Race Alone,1400000US53033006700,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,16.48739,0,0
+Queen Anne,67,2+ Races,1400000US53033006700,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,551,551
+Queen Anne,68,American Indian & Alaska Native Alone,1400000US53033006800,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Queen Anne,68,Asian Alone,1400000US53033006800,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,238,238
+Queen Anne,68,Native Hawaiian & Other Pacific Islander Alone,1400000US53033006800,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Queen Anne,68,Some Other Race Alone,1400000US53033006800,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,37,37
+Queen Anne,68,2+ Races,1400000US53033006800,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,41,41
+Queen Anne,69,Asian Alone,1400000US53033006900,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,7%,303,283
+Queen Anne,69,Native Hawaiian & Other Pacific Islander Alone,1400000US53033006900,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Queen Anne,69,Some Other Race Alone,1400000US53033006900,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,16.48739,0,0
+Queen Anne,69,2+ Races,1400000US53033006900,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,219,219
+Queen Anne,60,Asian Alone,1400000US53033006000,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,426,426
+Queen Anne,60,Native Hawaiian & Other Pacific Islander Alone,1400000US53033006000,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Queen Anne,60,Some Other Race Alone,1400000US53033006000,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,60,60
+Queen Anne,60,2+ Races,1400000US53033006000,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,143,143
+Queen Anne,59,Asian Alone,1400000US53033005900,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,1%,616,610
+Queen Anne,59,Native Hawaiian & Other Pacific Islander Alone,1400000US53033005900,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Queen Anne,59,Some Other Race Alone,1400000US53033005900,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,5%,123,117
+Queen Anne,59,2+ Races,1400000US53033005900,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,278,278
+Queen Anne,71,American Indian & Alaska Native Alone,1400000US53033007100,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,114,114
+Queen Anne,71,Asian Alone,1400000US53033007100,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,3%,727,707
+Queen Anne,71,Native Hawaiian & Other Pacific Islander Alone,1400000US53033007100,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,0%,2,2
+Queen Anne,71,Some Other Race Alone,1400000US53033007100,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,48%,227,118
+Queen Anne,71,2+ Races,1400000US53033007100,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,234,234
+Queen Anne,70,Asian Alone,1400000US53033007000,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,576,576
+Queen Anne,70,Native Hawaiian & Other Pacific Islander Alone,1400000US53033007000,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,0%,61,61
+Queen Anne,70,Some Other Race Alone,1400000US53033007000,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,16.48739,0,0
+Queen Anne,70,2+ Races,1400000US53033007000,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,405,405
+Pioneer Square/International District,91,White Alone,1400000US53033009100,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,7%,523,488
+Pioneer Square/International District,92,White Alone,1400000US53033009200,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,15%,1274,1086
+Pioneer Square/International District,91,Black / African American Alone,1400000US53033009100,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,78,78
+Pioneer Square/International District,92,Black / African American Alone,1400000US53033009200,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,6%,250,235
+Pioneer Square/International District,91,American Indian & Alaska Native Alone,1400000US53033009100,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,100%,30,0
+Pioneer Square/International District,92,American Indian & Alaska Native Alone,1400000US53033009200,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,99,99
+Pioneer Square/International District,92,Asian Alone,1400000US53033009200,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,358,358
+Pioneer Square/International District,92,Native Hawaiian & Other Pacific Islander Alone,1400000US53033009200,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,0%,3,3
+Pioneer Square/International District,92,Some Other Race Alone,1400000US53033009200,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,11%,44,39
+Pioneer Square/International District,92,2+ Races,1400000US53033009200,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,5%,183,173
+Pioneer Square/International District,91,Asian Alone,1400000US53033009100,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,16%,836,700
+Pioneer Square/International District,91,Native Hawaiian & Other Pacific Islander Alone,1400000US53033009100,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Pioneer Square/International District,91,Some Other Race Alone,1400000US53033009100,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,20,20
+Pioneer Square/International District,91,2+ Races,1400000US53033009100,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,11%,102,91
+Olympic Hills/Victory Heights,11,White Alone,1400000US53033001100,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,4%,1167,1122
+Olympic Hills/Victory Heights,2,White Alone,1400000US53033000200,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,12%,3727,3293
+Olympic Hills/Victory Heights,7,White Alone,1400000US53033000700,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,16%,2436,2044
+Olympic Hills/Victory Heights,11,Black / African American Alone,1400000US53033001100,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,5,5
+Olympic Hills/Victory Heights,2,Black / African American Alone,1400000US53033000200,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,402,402
+Olympic Hills/Victory Heights,7,Black / African American Alone,1400000US53033000700,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,18%,449,366
+Olympic Hills/Victory Heights,11,American Indian & Alaska Native Alone,1400000US53033001100,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,6,6
+Olympic Hills/Victory Heights,2,American Indian & Alaska Native Alone,1400000US53033000200,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,112,112
+Olympic Hills/Victory Heights,7,American Indian & Alaska Native Alone,1400000US53033000700,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,44%,45,25
+Olympic Hills/Victory Heights,11,Asian Alone,1400000US53033001100,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,3%,485,470
+Olympic Hills/Victory Heights,11,Native Hawaiian & Other Pacific Islander Alone,1400000US53033001100,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Olympic Hills/Victory Heights,11,Some Other Race Alone,1400000US53033001100,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,100%,52,0
+Olympic Hills/Victory Heights,11,2+ Races,1400000US53033001100,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,92,92
+Olympic Hills/Victory Heights,2,Asian Alone,1400000US53033000200,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,9%,906,824
+Olympic Hills/Victory Heights,7,Asian Alone,1400000US53033000700,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,10%,635,572
+Olympic Hills/Victory Heights,2,Native Hawaiian & Other Pacific Islander Alone,1400000US53033000200,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Olympic Hills/Victory Heights,7,Native Hawaiian & Other Pacific Islander Alone,1400000US53033000700,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,0%,17,17
+Olympic Hills/Victory Heights,2,Some Other Race Alone,1400000US53033000200,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,70%,266,80
+Olympic Hills/Victory Heights,7,Some Other Race Alone,1400000US53033000700,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,11%,105,93
+Olympic Hills/Victory Heights,2,2+ Races,1400000US53033000200,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,235,235
+Olympic Hills/Victory Heights,7,2+ Races,1400000US53033000700,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,104,104
+Northgate/Maple Leaf,12,White Alone,1400000US53033001200,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,15%,2994,2530
+Northgate/Maple Leaf,19,White Alone,1400000US53033001900,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,4%,2740,2627
+Northgate/Maple Leaf,20,White Alone,1400000US53033002000,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,6%,2122,1987
+Northgate/Maple Leaf,12,Black / African American Alone,1400000US53033001200,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,417,417
+Northgate/Maple Leaf,19,Black / African American Alone,1400000US53033001900,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,14%,100,86
+Northgate/Maple Leaf,20,Black / African American Alone,1400000US53033002000,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,23,23
+Northgate/Maple Leaf,20,American Indian & Alaska Native Alone,1400000US53033002000,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Northgate/Maple Leaf,20,Asian Alone,1400000US53033002000,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,313,313
+Northgate/Maple Leaf,20,Native Hawaiian & Other Pacific Islander Alone,1400000US53033002000,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Northgate/Maple Leaf,20,Some Other Race Alone,1400000US53033002000,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,65%,37,13
+Northgate/Maple Leaf,20,2+ Races,1400000US53033002000,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,14%,152,131
+Northgate/Maple Leaf,12,American Indian & Alaska Native Alone,1400000US53033001200,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,28,28
+Northgate/Maple Leaf,12,Asian Alone,1400000US53033001200,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,8%,946,869
+Northgate/Maple Leaf,12,Native Hawaiian & Other Pacific Islander Alone,1400000US53033001200,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Northgate/Maple Leaf,12,Some Other Race Alone,1400000US53033001200,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,33%,101,68
+Northgate/Maple Leaf,12,2+ Races,1400000US53033001200,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,337,337
+Northgate/Maple Leaf,19,American Indian & Alaska Native Alone,1400000US53033001900,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Northgate/Maple Leaf,19,Asian Alone,1400000US53033001900,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,8%,613,563
+Northgate/Maple Leaf,19,Native Hawaiian & Other Pacific Islander Alone,1400000US53033001900,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,0%,15,15
+Northgate/Maple Leaf,19,Some Other Race Alone,1400000US53033001900,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,21,21
+Northgate/Maple Leaf,19,2+ Races,1400000US53033001900,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,135,135
+North Delridge,99,White Alone,1400000US53033009900,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,6%,3439,3233
+North Delridge,99,Black / African American Alone,1400000US53033009900,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,10%,166,149
+North Delridge,99,American Indian & Alaska Native Alone,1400000US53033009900,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+North Delridge,99,Asian Alone,1400000US53033009900,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,5%,577,549
+North Delridge,99,Native Hawaiian & Other Pacific Islander Alone,1400000US53033009900,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+North Delridge,99,Some Other Race Alone,1400000US53033009900,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,14%,170,147
+North Delridge,99,2+ Races,1400000US53033009900,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,21%,305,241
+North Capitol Hill,65,White Alone,1400000US53033006500,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,7%,3007,2806
+North Capitol Hill,65,Black / African American Alone,1400000US53033006500,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,23,23
+North Capitol Hill,65,American Indian & Alaska Native Alone,1400000US53033006500,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,9,9
+North Capitol Hill,65,Asian Alone,1400000US53033006500,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,4%,298,285
+North Capitol Hill,65,Native Hawaiian & Other Pacific Islander Alone,1400000US53033006500,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,0%,19,19
+North Capitol Hill,65,Some Other Race Alone,1400000US53033006500,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,44,44
+North Capitol Hill,65,2+ Races,1400000US53033006500,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,208,208
+North Beacon Hill/Jefferson Park,94,White Alone,1400000US53033009400,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,13%,2126,1853
+North Beacon Hill/Jefferson Park,100.01,White Alone,1400000US53033010001,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,10%,1363,1229
+North Beacon Hill/Jefferson Park,100.02,White Alone,1400000US53033010002,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,7%,1777,1661
+North Beacon Hill/Jefferson Park,94,Black / African American Alone,1400000US53033009400,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,13%,501,434
+North Beacon Hill/Jefferson Park,100.01,Black / African American Alone,1400000US53033010001,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,16%,718,606
+North Beacon Hill/Jefferson Park,100.02,Black / African American Alone,1400000US53033010002,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,152,152
+North Beacon Hill/Jefferson Park,94,American Indian & Alaska Native Alone,1400000US53033009400,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,94,94
+North Beacon Hill/Jefferson Park,100.01,American Indian & Alaska Native Alone,1400000US53033010001,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,9,9
+North Beacon Hill/Jefferson Park,100.01,Asian Alone,1400000US53033010001,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,3%,679,657
+North Beacon Hill/Jefferson Park,100.01,Native Hawaiian & Other Pacific Islander Alone,1400000US53033010001,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+North Beacon Hill/Jefferson Park,100.01,Some Other Race Alone,1400000US53033010001,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,9,9
+North Beacon Hill/Jefferson Park,100.01,2+ Races,1400000US53033010001,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,50%,58,29
+North Beacon Hill/Jefferson Park,94,Asian Alone,1400000US53033009400,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,11%,1173,1046
+North Beacon Hill/Jefferson Park,94,Native Hawaiian & Other Pacific Islander Alone,1400000US53033009400,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+North Beacon Hill/Jefferson Park,94,Some Other Race Alone,1400000US53033009400,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,40%,877,529
+North Beacon Hill/Jefferson Park,94,2+ Races,1400000US53033009400,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,7%,339,316
+North Beacon Hill/Jefferson Park,100.02,American Indian & Alaska Native Alone,1400000US53033010002,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+North Beacon Hill/Jefferson Park,100.02,Asian Alone,1400000US53033010002,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,10%,991,892
+North Beacon Hill/Jefferson Park,100.02,Native Hawaiian & Other Pacific Islander Alone,1400000US53033010002,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,0%,14,14
+North Beacon Hill/Jefferson Park,100.02,Some Other Race Alone,1400000US53033010002,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,45%,315,173
+North Beacon Hill/Jefferson Park,100.02,2+ Races,1400000US53033010002,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,5%,203,192
+North Beach/Blue Ridge,15,White Alone,1400000US53033001500,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,1%,1594,1577
+North Beach/Blue Ridge,16,White Alone,1400000US53033001600,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,5%,2393,2270
+North Beach/Blue Ridge,14,White Alone,1400000US53033001400,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,4%,3186,3060
+North Beach/Blue Ridge,15,Black / African American Alone,1400000US53033001500,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,25,25
+North Beach/Blue Ridge,16,Black / African American Alone,1400000US53033001600,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,17%,23,19
+North Beach/Blue Ridge,14,Black / African American Alone,1400000US53033001400,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,53,53
+North Beach/Blue Ridge,15,American Indian & Alaska Native Alone,1400000US53033001500,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,6,6
+North Beach/Blue Ridge,16,American Indian & Alaska Native Alone,1400000US53033001600,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,8,8
+North Beach/Blue Ridge,16,Asian Alone,1400000US53033001600,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,191,191
+North Beach/Blue Ridge,16,Native Hawaiian & Other Pacific Islander Alone,1400000US53033001600,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+North Beach/Blue Ridge,16,Some Other Race Alone,1400000US53033001600,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,5,5
+North Beach/Blue Ridge,16,2+ Races,1400000US53033001600,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,1%,227,225
+North Beach/Blue Ridge,14,American Indian & Alaska Native Alone,1400000US53033001400,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,58,58
+North Beach/Blue Ridge,14,Asian Alone,1400000US53033001400,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,22%,342,266
+North Beach/Blue Ridge,14,Native Hawaiian & Other Pacific Islander Alone,1400000US53033001400,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+North Beach/Blue Ridge,14,Some Other Race Alone,1400000US53033001400,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,54,54
+North Beach/Blue Ridge,14,2+ Races,1400000US53033001400,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,22%,325,253
+North Beach/Blue Ridge,15,Asian Alone,1400000US53033001500,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,97,97
+North Beach/Blue Ridge,15,Native Hawaiian & Other Pacific Islander Alone,1400000US53033001500,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+North Beach/Blue Ridge,15,Some Other Race Alone,1400000US53033001500,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,16.48739,0,0
+North Beach/Blue Ridge,15,2+ Races,1400000US53033001500,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,34,34
+Mt. Baker/North Rainier,95,White Alone,1400000US53033009500,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,3%,2792,2707
+Mt. Baker/North Rainier,95,Black / African American Alone,1400000US53033009500,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,22%,611,477
+Mt. Baker/North Rainier,95,American Indian & Alaska Native Alone,1400000US53033009500,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,14,14
+Mt. Baker/North Rainier,95,Asian Alone,1400000US53033009500,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,3%,481,468
+Mt. Baker/North Rainier,95,Native Hawaiian & Other Pacific Islander Alone,1400000US53033009500,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Mt. Baker/North Rainier,95,Some Other Race Alone,1400000US53033009500,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,55,55
+Mt. Baker/North Rainier,95,2+ Races,1400000US53033009500,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,203,203
+Montlake/Portage Bay,61,White Alone,1400000US53033006100,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,2%,3327,3266
+Montlake/Portage Bay,62,White Alone,1400000US53033006200,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,2%,2401,2349
+Montlake/Portage Bay,61,Black / African American Alone,1400000US53033006100,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,2%,63,62
+Montlake/Portage Bay,62,Black / African American Alone,1400000US53033006200,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,40,40
+Montlake/Portage Bay,61,American Indian & Alaska Native Alone,1400000US53033006100,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Montlake/Portage Bay,62,American Indian & Alaska Native Alone,1400000US53033006200,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Montlake/Portage Bay,62,Asian Alone,1400000US53033006200,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,289,289
+Montlake/Portage Bay,62,Native Hawaiian & Other Pacific Islander Alone,1400000US53033006200,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Montlake/Portage Bay,62,Some Other Race Alone,1400000US53033006200,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,55,55
+Montlake/Portage Bay,62,2+ Races,1400000US53033006200,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,78,78
+Montlake/Portage Bay,61,Asian Alone,1400000US53033006100,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,515,515
+Montlake/Portage Bay,61,Native Hawaiian & Other Pacific Islander Alone,1400000US53033006100,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,100%,31,0
+Montlake/Portage Bay,61,Some Other Race Alone,1400000US53033006100,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,17,17
+Montlake/Portage Bay,61,2+ Races,1400000US53033006100,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,23%,177,136
+Miller Park,76,White Alone,1400000US53033007600,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,1%,2839,2823
+Miller Park,64,White Alone,1400000US53033006400,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,0%,2046,2046
+Miller Park,76,Black / African American Alone,1400000US53033007600,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,98,98
+Miller Park,64,Black / African American Alone,1400000US53033006400,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,10,10
+Miller Park,64,American Indian & Alaska Native Alone,1400000US53033006400,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Miller Park,64,Asian Alone,1400000US53033006400,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,141,141
+Miller Park,64,Native Hawaiian & Other Pacific Islander Alone,1400000US53033006400,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Miller Park,64,Some Other Race Alone,1400000US53033006400,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,17,17
+Miller Park,64,2+ Races,1400000US53033006400,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,4%,80,77
+Miller Park,76,American Indian & Alaska Native Alone,1400000US53033007600,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Miller Park,76,Asian Alone,1400000US53033007600,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,311,311
+Miller Park,76,Native Hawaiian & Other Pacific Islander Alone,1400000US53033007600,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Miller Park,76,Some Other Race Alone,1400000US53033007600,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,16.48739,0,0
+Miller Park,76,2+ Races,1400000US53033007600,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,197,197
+Magnolia,56,White Alone,1400000US53033005600,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,1%,3349,3325
+Magnolia,57,White Alone,1400000US53033005700,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,3%,3610,3488
+Magnolia,56,Black / African American Alone,1400000US53033005600,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,8.968504,0,0
+Magnolia,57,Black / African American Alone,1400000US53033005700,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,61%,80,31
+Magnolia,56,American Indian & Alaska Native Alone,1400000US53033005600,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,38,38
+Magnolia,57,American Indian & Alaska Native Alone,1400000US53033005700,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,19,19
+Magnolia,56,Asian Alone,1400000US53033005600,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,7%,313,292
+Magnolia,56,Native Hawaiian & Other Pacific Islander Alone,1400000US53033005600,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,0%,28,28
+Magnolia,56,Some Other Race Alone,1400000US53033005600,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,52,52
+Magnolia,56,2+ Races,1400000US53033005600,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,187,187
+Magnolia,57,Asian Alone,1400000US53033005700,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,5%,532,508
+Magnolia,57,Native Hawaiian & Other Pacific Islander Alone,1400000US53033005700,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Magnolia,57,Some Other Race Alone,1400000US53033005700,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,50,50
+Magnolia,57,2+ Races,1400000US53033005700,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,127,127
+Madrona/Leschi,89,White Alone,1400000US53033008900,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,6%,2633,2465
+Madrona/Leschi,78,White Alone,1400000US53033007800,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,1%,2839,2799
+Madrona/Leschi,89,Black / African American Alone,1400000US53033008900,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,6%,745,702
+Madrona/Leschi,78,Black / African American Alone,1400000US53033007800,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,32%,157,107
+Madrona/Leschi,89,American Indian & Alaska Native Alone,1400000US53033008900,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,61,61
+Madrona/Leschi,78,American Indian & Alaska Native Alone,1400000US53033007800,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Madrona/Leschi,89,Asian Alone,1400000US53033008900,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,511,511
+Madrona/Leschi,89,Native Hawaiian & Other Pacific Islander Alone,1400000US53033008900,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Madrona/Leschi,89,Some Other Race Alone,1400000US53033008900,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,22,22
+Madrona/Leschi,89,2+ Races,1400000US53033008900,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,5%,301,285
+Madrona/Leschi,78,Asian Alone,1400000US53033007800,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,175,175
+Madrona/Leschi,78,Native Hawaiian & Other Pacific Islander Alone,1400000US53033007800,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Madrona/Leschi,78,Some Other Race Alone,1400000US53033007800,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,30,30
+Madrona/Leschi,78,2+ Races,1400000US53033007800,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,217,217
+Madison Park,63,White Alone,1400000US53033006300,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,0%,2981,2972
+Madison Park,63,Black / African American Alone,1400000US53033006300,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,71,71
+Madison Park,63,American Indian & Alaska Native Alone,1400000US53033006300,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Madison Park,63,Asian Alone,1400000US53033006300,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,88,88
+Madison Park,63,Native Hawaiian & Other Pacific Islander Alone,1400000US53033006300,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Madison Park,63,Some Other Race Alone,1400000US53033006300,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,14,14
+Madison Park,63,2+ Races,1400000US53033006300,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,123,123
+Licton Springs,13,White Alone,1400000US53033001300,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,9%,2133,1941
+Licton Springs,18,White Alone,1400000US53033001800,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,6%,3255,3047
+Licton Springs,13,Black / African American Alone,1400000US53033001300,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,9%,163,148
+Licton Springs,18,Black / African American Alone,1400000US53033001800,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,35,35
+Licton Springs,13,American Indian & Alaska Native Alone,1400000US53033001300,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,13,13
+Licton Springs,18,American Indian & Alaska Native Alone,1400000US53033001800,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Licton Springs,18,Asian Alone,1400000US53033001800,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,4%,508,488
+Licton Springs,18,Native Hawaiian & Other Pacific Islander Alone,1400000US53033001800,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,0%,28,28
+Licton Springs,18,Some Other Race Alone,1400000US53033001800,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,13%,134,116
+Licton Springs,18,2+ Races,1400000US53033001800,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,34%,226,149
+Licton Springs,13,Asian Alone,1400000US53033001300,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,740,740
+Licton Springs,13,Native Hawaiian & Other Pacific Islander Alone,1400000US53033001300,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Licton Springs,13,Some Other Race Alone,1400000US53033001300,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,81%,202,38
+Licton Springs,13,2+ Races,1400000US53033001300,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,186,186
+Laurelhurst/Sand Point,40,White Alone,1400000US53033004000,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,3%,1507,1463
+Laurelhurst/Sand Point,41,White Alone,1400000US53033004100,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,3%,3668,3544
+Laurelhurst/Sand Point,40,Black / African American Alone,1400000US53033004000,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,20%,131,105
+Laurelhurst/Sand Point,41,Black / African American Alone,1400000US53033004100,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,1,1
+Laurelhurst/Sand Point,40,American Indian & Alaska Native Alone,1400000US53033004000,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Laurelhurst/Sand Point,41,American Indian & Alaska Native Alone,1400000US53033004100,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Laurelhurst/Sand Point,41,Asian Alone,1400000US53033004100,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,3%,653,632
+Laurelhurst/Sand Point,41,Native Hawaiian & Other Pacific Islander Alone,1400000US53033004100,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,0%,25,25
+Laurelhurst/Sand Point,41,Some Other Race Alone,1400000US53033004100,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,100%,1,0
+Laurelhurst/Sand Point,41,2+ Races,1400000US53033004100,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,181,181
+Laurelhurst/Sand Point,40,Asian Alone,1400000US53033004000,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,246,246
+Laurelhurst/Sand Point,40,Native Hawaiian & Other Pacific Islander Alone,1400000US53033004000,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Laurelhurst/Sand Point,40,Some Other Race Alone,1400000US53033004000,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,4,4
+Laurelhurst/Sand Point,40,2+ Races,1400000US53033004000,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,126,126
+Judkins Park,90,White Alone,1400000US53033009000,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,4%,954,919
+Judkins Park,90,Black / African American Alone,1400000US53033009000,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,29%,617,435
+Judkins Park,90,American Indian & Alaska Native Alone,1400000US53033009000,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,18%,49,40
+Judkins Park,90,Asian Alone,1400000US53033009000,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,329,329
+Judkins Park,90,Native Hawaiian & Other Pacific Islander Alone,1400000US53033009000,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,0%,11,11
+Judkins Park,90,Some Other Race Alone,1400000US53033009000,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,11,11
+Judkins Park,90,2+ Races,1400000US53033009000,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,10%,211,190
+Interbay,58.01,White Alone,1400000US53033005801,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,3%,3419,3315
+Interbay,58.02,White Alone,1400000US53033005802,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,5%,2993,2850
+Interbay,58.01,Black / African American Alone,1400000US53033005801,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,30%,236,166
+Interbay,58.02,Black / African American Alone,1400000US53033005802,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,33%,150,100
+Interbay,58.01,American Indian & Alaska Native Alone,1400000US53033005801,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Interbay,58.02,American Indian & Alaska Native Alone,1400000US53033005802,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Interbay,58.02,Asian Alone,1400000US53033005802,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,12%,629,552
+Interbay,58.02,Native Hawaiian & Other Pacific Islander Alone,1400000US53033005802,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Interbay,58.02,Some Other Race Alone,1400000US53033005802,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,16.48739,0,0
+Interbay,58.02,2+ Races,1400000US53033005802,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,6%,408,385
+Interbay,58.01,Asian Alone,1400000US53033005801,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,2%,242,238
+Interbay,58.01,Native Hawaiian & Other Pacific Islander Alone,1400000US53033005801,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Interbay,58.01,Some Other Race Alone,1400000US53033005801,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,100%,15,0
+Interbay,58.01,2+ Races,1400000US53033005801,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,128,128
+Highland Park,113,White Alone,1400000US53033011300,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,3%,2327,2253
+Highland Park,113,Black / African American Alone,1400000US53033011300,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,312,312
+Highland Park,113,American Indian & Alaska Native Alone,1400000US53033011300,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,27%,41,30
+Highland Park,113,Asian Alone,1400000US53033011300,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,4%,817,782
+Highland Park,113,Native Hawaiian & Other Pacific Islander Alone,1400000US53033011300,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,0%,26,26
+Highland Park,113,Some Other Race Alone,1400000US53033011300,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,34%,232,152
+Highland Park,113,2+ Races,1400000US53033011300,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,13%,614,532
+High Point,107.01,White Alone,1400000US53033010701,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,7%,1326,1237
+High Point,107.02,White Alone,1400000US53033010702,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,5%,1147,1089
+High Point,107.01,Black / African American Alone,1400000US53033010701,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,476,476
+High Point,107.02,Black / African American Alone,1400000US53033010702,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,17%,729,603
+High Point,107.01,American Indian & Alaska Native Alone,1400000US53033010701,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+High Point,107.02,American Indian & Alaska Native Alone,1400000US53033010702,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,1,1
+High Point,107.01,Asian Alone,1400000US53033010701,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,3%,391,380
+High Point,107.02,Asian Alone,1400000US53033010702,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,8%,605,558
+High Point,107.01,Native Hawaiian & Other Pacific Islander Alone,1400000US53033010701,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,0%,80,80
+High Point,107.02,Native Hawaiian & Other Pacific Islander Alone,1400000US53033010702,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+High Point,107.01,Some Other Race Alone,1400000US53033010701,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,16%,147,123
+High Point,107.02,Some Other Race Alone,1400000US53033010702,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,48%,132,68
+High Point,107.01,2+ Races,1400000US53033010701,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,91,91
+High Point,107.02,2+ Races,1400000US53033010702,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,121,121
+Haller Lake,3,White Alone,1400000US53033000300,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,12%,1585,1395
+Haller Lake,6,White Alone,1400000US53033000600,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,8%,3248,2988
+Haller Lake,3,Black / African American Alone,1400000US53033000300,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,38%,89,55
+Haller Lake,6,Black / African American Alone,1400000US53033000600,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,15%,527,450
+Haller Lake,3,American Indian & Alaska Native Alone,1400000US53033000300,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Haller Lake,3,Asian Alone,1400000US53033000300,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,11%,332,296
+Haller Lake,3,Native Hawaiian & Other Pacific Islander Alone,1400000US53033000300,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,0%,8,8
+Haller Lake,3,Some Other Race Alone,1400000US53033000300,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,27,27
+Haller Lake,3,2+ Races,1400000US53033000300,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,121,121
+Haller Lake,6,American Indian & Alaska Native Alone,1400000US53033000600,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,24%,72,55
+Haller Lake,6,Asian Alone,1400000US53033000600,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,7%,632,590
+Haller Lake,6,Native Hawaiian & Other Pacific Islander Alone,1400000US53033000600,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Haller Lake,6,Some Other Race Alone,1400000US53033000600,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,67%,543,180
+Haller Lake,6,2+ Races,1400000US53033000600,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,8%,332,306
+Greenwood/Phinney Ridge,28,White Alone,1400000US53033002800,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,1%,2925,2904
+Greenwood/Phinney Ridge,29,White Alone,1400000US53033002900,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,4%,2878,2772
+Greenwood/Phinney Ridge,34,White Alone,1400000US53033003400,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,6%,2335,2206
+Greenwood/Phinney Ridge,35,White Alone,1400000US53033003500,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,2%,2367,2320
+Greenwood/Phinney Ridge,17.01,White Alone,1400000US53033001701,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,3%,2311,2243
+Greenwood/Phinney Ridge,17.02,White Alone,1400000US53033001702,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,4%,2669,2573
+Greenwood/Phinney Ridge,28,Black / African American Alone,1400000US53033002800,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,2%,47,46
+Greenwood/Phinney Ridge,29,Black / African American Alone,1400000US53033002900,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,8.968504,0,0
+Greenwood/Phinney Ridge,34,Black / African American Alone,1400000US53033003400,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,35,35
+Greenwood/Phinney Ridge,35,Black / African American Alone,1400000US53033003500,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,7%,14,13
+Greenwood/Phinney Ridge,17.01,Black / African American Alone,1400000US53033001701,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,153,153
+Greenwood/Phinney Ridge,17.02,Black / African American Alone,1400000US53033001702,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,95,95
+Greenwood/Phinney Ridge,28,American Indian & Alaska Native Alone,1400000US53033002800,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Greenwood/Phinney Ridge,29,American Indian & Alaska Native Alone,1400000US53033002900,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,100%,1,0
+Greenwood/Phinney Ridge,34,American Indian & Alaska Native Alone,1400000US53033003400,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Greenwood/Phinney Ridge,34,Asian Alone,1400000US53033003400,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,9%,161,146
+Greenwood/Phinney Ridge,34,Native Hawaiian & Other Pacific Islander Alone,1400000US53033003400,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Greenwood/Phinney Ridge,34,Some Other Race Alone,1400000US53033003400,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,9,9
+Greenwood/Phinney Ridge,34,2+ Races,1400000US53033003400,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,24%,50,38
+Greenwood/Phinney Ridge,28,Asian Alone,1400000US53033002800,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,230,230
+Greenwood/Phinney Ridge,28,Native Hawaiian & Other Pacific Islander Alone,1400000US53033002800,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Greenwood/Phinney Ridge,28,Some Other Race Alone,1400000US53033002800,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,34,34
+Greenwood/Phinney Ridge,28,2+ Races,1400000US53033002800,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,186,186
+Greenwood/Phinney Ridge,17.01,American Indian & Alaska Native Alone,1400000US53033001701,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,71%,48,14
+Greenwood/Phinney Ridge,17.01,Asian Alone,1400000US53033001701,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,4%,346,332
+Greenwood/Phinney Ridge,17.01,Native Hawaiian & Other Pacific Islander Alone,1400000US53033001701,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,0%,23,23
+Greenwood/Phinney Ridge,17.01,Some Other Race Alone,1400000US53033001701,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,36,36
+Greenwood/Phinney Ridge,17.01,2+ Races,1400000US53033001701,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,184,184
+Greenwood/Phinney Ridge,17.02,American Indian & Alaska Native Alone,1400000US53033001702,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,8,8
+Greenwood/Phinney Ridge,17.02,Asian Alone,1400000US53033001702,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,358,358
+Greenwood/Phinney Ridge,17.02,Native Hawaiian & Other Pacific Islander Alone,1400000US53033001702,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Greenwood/Phinney Ridge,17.02,Some Other Race Alone,1400000US53033001702,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,9%,172,156
+Greenwood/Phinney Ridge,17.02,2+ Races,1400000US53033001702,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,18%,249,204
+Greenwood/Phinney Ridge,29,Asian Alone,1400000US53033002900,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,256,256
+Greenwood/Phinney Ridge,29,Native Hawaiian & Other Pacific Islander Alone,1400000US53033002900,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,0%,13,13
+Greenwood/Phinney Ridge,29,Some Other Race Alone,1400000US53033002900,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,33,33
+Greenwood/Phinney Ridge,29,2+ Races,1400000US53033002900,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,116,116
+Greenwood/Phinney Ridge,35,American Indian & Alaska Native Alone,1400000US53033003500,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,1,1
+Greenwood/Phinney Ridge,35,Asian Alone,1400000US53033003500,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,8%,271,250
+Greenwood/Phinney Ridge,35,Native Hawaiian & Other Pacific Islander Alone,1400000US53033003500,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,0%,15,15
+Greenwood/Phinney Ridge,35,Some Other Race Alone,1400000US53033003500,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,8,8
+Greenwood/Phinney Ridge,35,2+ Races,1400000US53033003500,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,13%,105,91
+Green Lake,36,White Alone,1400000US53033003600,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,3%,3917,3786
+Green Lake,46,White Alone,1400000US53033004600,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,5%,2230,2121
+Green Lake,27,White Alone,1400000US53033002700,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,2%,3421,3364
+Green Lake,36,Black / African American Alone,1400000US53033003600,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,132,132
+Green Lake,46,Black / African American Alone,1400000US53033004600,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,22,22
+Green Lake,27,Black / African American Alone,1400000US53033002700,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,66,66
+Green Lake,36,American Indian & Alaska Native Alone,1400000US53033003600,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Green Lake,46,American Indian & Alaska Native Alone,1400000US53033004600,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Green Lake,46,Asian Alone,1400000US53033004600,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,15%,137,116
+Green Lake,46,Native Hawaiian & Other Pacific Islander Alone,1400000US53033004600,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Green Lake,46,Some Other Race Alone,1400000US53033004600,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,16.48739,0,0
+Green Lake,46,2+ Races,1400000US53033004600,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,34,34
+Green Lake,27,American Indian & Alaska Native Alone,1400000US53033002700,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Green Lake,27,Asian Alone,1400000US53033002700,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,615,615
+Green Lake,27,Native Hawaiian & Other Pacific Islander Alone,1400000US53033002700,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Green Lake,27,Some Other Race Alone,1400000US53033002700,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,82%,181,33
+Green Lake,27,2+ Races,1400000US53033002700,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,10%,320,288
+Green Lake,36,Asian Alone,1400000US53033003600,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,7%,808,755
+Green Lake,36,Native Hawaiian & Other Pacific Islander Alone,1400000US53033003600,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Green Lake,36,Some Other Race Alone,1400000US53033003600,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,84,84
+Green Lake,36,2+ Races,1400000US53033003600,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,271,271
+Georgetown,109,White Alone,1400000US53033010900,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,4%,698,671
+Georgetown,109,Black / African American Alone,1400000US53033010900,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,77%,48,11
+Georgetown,109,American Indian & Alaska Native Alone,1400000US53033010900,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,100%,7,0
+Georgetown,109,Asian Alone,1400000US53033010900,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,15,15
+Georgetown,109,Native Hawaiian & Other Pacific Islander Alone,1400000US53033010900,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,0%,22,22
+Georgetown,109,Some Other Race Alone,1400000US53033010900,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,38,38
+Georgetown,109,2+ Races,1400000US53033010900,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,50,50
+Fremont,48,White Alone,1400000US53033004800,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,4%,3362,3231
+Fremont,54,White Alone,1400000US53033005400,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,3%,4038,3914
+Fremont,49,White Alone,1400000US53033004900,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,4%,5290,5074
+Fremont,48,Black / African American Alone,1400000US53033004800,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,43,43
+Fremont,54,Black / African American Alone,1400000US53033005400,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,137,137
+Fremont,49,Black / African American Alone,1400000US53033004900,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,31,31
+Fremont,48,American Indian & Alaska Native Alone,1400000US53033004800,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,21,21
+Fremont,54,American Indian & Alaska Native Alone,1400000US53033005400,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Fremont,48,Asian Alone,1400000US53033004800,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,289,289
+Fremont,48,Native Hawaiian & Other Pacific Islander Alone,1400000US53033004800,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Fremont,48,Some Other Race Alone,1400000US53033004800,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,71,71
+Fremont,48,2+ Races,1400000US53033004800,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,4%,235,226
+Fremont,54,Asian Alone,1400000US53033005400,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,470,470
+Fremont,54,Native Hawaiian & Other Pacific Islander Alone,1400000US53033005400,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Fremont,54,Some Other Race Alone,1400000US53033005400,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,11,11
+Fremont,54,2+ Races,1400000US53033005400,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,394,394
+Fremont,49,American Indian & Alaska Native Alone,1400000US53033004900,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Fremont,49,Asian Alone,1400000US53033004900,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,404,404
+Fremont,49,Native Hawaiian & Other Pacific Islander Alone,1400000US53033004900,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Fremont,49,Some Other Race Alone,1400000US53033004900,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,16%,104,87
+Fremont,49,2+ Races,1400000US53033004900,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,317,317
+First Hill,83,White Alone,1400000US53033008300,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,6%,1882,1775
+First Hill,82,White Alone,1400000US53033008200,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,6%,2289,2160
+First Hill,86,White Alone,1400000US53033008600,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,8%,2977,2752
+First Hill,85,White Alone,1400000US53033008500,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,10%,909,815
+First Hill,83,Black / African American Alone,1400000US53033008300,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,76,76
+First Hill,82,Black / African American Alone,1400000US53033008200,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,15%,240,203
+First Hill,86,Black / African American Alone,1400000US53033008600,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,11%,387,344
+First Hill,85,Black / African American Alone,1400000US53033008500,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,47%,148,78
+First Hill,83,American Indian & Alaska Native Alone,1400000US53033008300,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,34,34
+First Hill,82,American Indian & Alaska Native Alone,1400000US53033008200,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+First Hill,86,American Indian & Alaska Native Alone,1400000US53033008600,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+First Hill,85,American Indian & Alaska Native Alone,1400000US53033008500,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+First Hill,85,Asian Alone,1400000US53033008500,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,4%,349,334
+First Hill,85,Native Hawaiian & Other Pacific Islander Alone,1400000US53033008500,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+First Hill,85,Some Other Race Alone,1400000US53033008500,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,84,84
+First Hill,85,2+ Races,1400000US53033008500,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,77,77
+First Hill,82,Asian Alone,1400000US53033008200,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,8%,718,658
+First Hill,82,Native Hawaiian & Other Pacific Islander Alone,1400000US53033008200,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+First Hill,82,Some Other Race Alone,1400000US53033008200,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,50,50
+First Hill,82,2+ Races,1400000US53033008200,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,12%,154,135
+First Hill,83,Asian Alone,1400000US53033008300,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,10%,465,419
+First Hill,83,Native Hawaiian & Other Pacific Islander Alone,1400000US53033008300,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+First Hill,83,Some Other Race Alone,1400000US53033008300,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,75,75
+First Hill,83,2+ Races,1400000US53033008300,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,36,36
+First Hill,86,Asian Alone,1400000US53033008600,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,826,826
+First Hill,86,Native Hawaiian & Other Pacific Islander Alone,1400000US53033008600,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,0%,36,36
+First Hill,86,Some Other Race Alone,1400000US53033008600,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,52%,308,148
+First Hill,86,2+ Races,1400000US53033008600,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,371,371
+Fauntleroy/Seaview,116,White Alone,1400000US53033011600,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,3%,4312,4193
+Fauntleroy/Seaview,106,White Alone,1400000US53033010600,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,4%,4460,4273
+Fauntleroy/Seaview,116,Black / African American Alone,1400000US53033011600,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,69,69
+Fauntleroy/Seaview,106,Black / African American Alone,1400000US53033010600,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,7%,208,193
+Fauntleroy/Seaview,116,American Indian & Alaska Native Alone,1400000US53033011600,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,100%,50,0
+Fauntleroy/Seaview,116,Asian Alone,1400000US53033011600,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,97,97
+Fauntleroy/Seaview,116,Native Hawaiian & Other Pacific Islander Alone,1400000US53033011600,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Fauntleroy/Seaview,116,Some Other Race Alone,1400000US53033011600,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,30,30
+Fauntleroy/Seaview,116,2+ Races,1400000US53033011600,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,18%,135,111
+Fauntleroy/Seaview,106,American Indian & Alaska Native Alone,1400000US53033010600,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,32,32
+Fauntleroy/Seaview,106,Asian Alone,1400000US53033010600,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,15%,474,404
+Fauntleroy/Seaview,106,Native Hawaiian & Other Pacific Islander Alone,1400000US53033010600,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Fauntleroy/Seaview,106,Some Other Race Alone,1400000US53033010600,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,21%,195,155
+Fauntleroy/Seaview,106,2+ Races,1400000US53033010600,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,261,261
+Duwamish/SODO,93,White Alone,1400000US53033009300,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,16%,1257,1060
+Duwamish/SODO,93,Black / African American Alone,1400000US53033009300,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,33%,231,154
+Duwamish/SODO,93,American Indian & Alaska Native Alone,1400000US53033009300,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,28%,29,21
+Duwamish/SODO,93,Asian Alone,1400000US53033009300,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,5%,299,283
+Duwamish/SODO,93,Native Hawaiian & Other Pacific Islander Alone,1400000US53033009300,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Duwamish/SODO,93,Some Other Race Alone,1400000US53033009300,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,8,8
+Duwamish/SODO,93,2+ Races,1400000US53033009300,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,141,141
+Downtown Commercial Core,81,White Alone,1400000US53033008100,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,6%,2189,2057
+Downtown Commercial Core,81,Black / African American Alone,1400000US53033008100,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,6%,263,248
+Downtown Commercial Core,81,American Indian & Alaska Native Alone,1400000US53033008100,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,13%,69,60
+Downtown Commercial Core,81,Asian Alone,1400000US53033008100,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,563,563
+Downtown Commercial Core,81,Native Hawaiian & Other Pacific Islander Alone,1400000US53033008100,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Downtown Commercial Core,81,Some Other Race Alone,1400000US53033008100,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,8%,110,101
+Downtown Commercial Core,81,2+ Races,1400000US53033008100,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,3%,237,231
+Columbia City,101,White Alone,1400000US53033010100,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,1%,2386,2366
+Columbia City,111.01,White Alone,1400000US53033011101,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,3%,1091,1059
+Columbia City,103,White Alone,1400000US53033010300,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,5%,2317,2200
+Columbia City,101,Black / African American Alone,1400000US53033010100,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,5%,1402,1335
+Columbia City,111.01,Black / African American Alone,1400000US53033011101,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,4%,763,731
+Columbia City,103,Black / African American Alone,1400000US53033010300,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,21%,1556,1235
+Columbia City,101,American Indian & Alaska Native Alone,1400000US53033010100,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Columbia City,111.01,American Indian & Alaska Native Alone,1400000US53033011101,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,9%,11,10
+Columbia City,103,American Indian & Alaska Native Alone,1400000US53033010300,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,24,24
+Columbia City,111.01,Asian Alone,1400000US53033011101,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,6%,1658,1564
+Columbia City,103,Asian Alone,1400000US53033010300,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,5%,820,779
+Columbia City,111.01,Native Hawaiian & Other Pacific Islander Alone,1400000US53033011101,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,0%,48,48
+Columbia City,103,Native Hawaiian & Other Pacific Islander Alone,1400000US53033010300,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,0%,8,8
+Columbia City,111.01,Some Other Race Alone,1400000US53033011101,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,90,90
+Columbia City,103,Some Other Race Alone,1400000US53033010300,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,21,21
+Columbia City,111.01,2+ Races,1400000US53033011101,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,26%,188,139
+Columbia City,103,2+ Races,1400000US53033010300,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,23%,238,184
+Columbia City,101,Asian Alone,1400000US53033010100,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,8%,1233,1129
+Columbia City,101,Native Hawaiian & Other Pacific Islander Alone,1400000US53033010100,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,0%,76,76
+Columbia City,101,Some Other Race Alone,1400000US53033010100,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,22%,383,300
+Columbia City,101,2+ Races,1400000US53033010100,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,13%,408,357
+Central Area/Squire Park,77,White Alone,1400000US53033007700,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,5%,3184,3017
+Central Area/Squire Park,79,White Alone,1400000US53033007900,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,2%,3736,3667
+Central Area/Squire Park,88,White Alone,1400000US53033008800,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,2%,2046,2007
+Central Area/Squire Park,87,White Alone,1400000US53033008700,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,6%,2272,2125
+Central Area/Squire Park,77,Black / African American Alone,1400000US53033007700,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,4%,373,359
+Central Area/Squire Park,79,Black / African American Alone,1400000US53033007900,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,6%,435,408
+Central Area/Squire Park,88,Black / African American Alone,1400000US53033008800,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,15%,534,454
+Central Area/Squire Park,87,Black / African American Alone,1400000US53033008700,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,6%,402,379
+Central Area/Squire Park,77,American Indian & Alaska Native Alone,1400000US53033007700,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,18,18
+Central Area/Squire Park,87,American Indian & Alaska Native Alone,1400000US53033008700,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,10,10
+Central Area/Squire Park,87,Asian Alone,1400000US53033008700,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,9%,310,283
+Central Area/Squire Park,87,Native Hawaiian & Other Pacific Islander Alone,1400000US53033008700,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,0%,10,10
+Central Area/Squire Park,87,Some Other Race Alone,1400000US53033008700,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,59,59
+Central Area/Squire Park,87,2+ Races,1400000US53033008700,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,7%,443,412
+Central Area/Squire Park,77,Asian Alone,1400000US53033007700,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,5%,305,289
+Central Area/Squire Park,77,Native Hawaiian & Other Pacific Islander Alone,1400000US53033007700,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Central Area/Squire Park,77,Some Other Race Alone,1400000US53033007700,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,32,32
+Central Area/Squire Park,77,2+ Races,1400000US53033007700,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,20%,251,201
+Central Area/Squire Park,79,American Indian & Alaska Native Alone,1400000US53033007900,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,25,25
+Central Area/Squire Park,79,Asian Alone,1400000US53033007900,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,316,316
+Central Area/Squire Park,79,Native Hawaiian & Other Pacific Islander Alone,1400000US53033007900,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,0%,5,5
+Central Area/Squire Park,79,Some Other Race Alone,1400000US53033007900,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,45,45
+Central Area/Squire Park,79,2+ Races,1400000US53033007900,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,250,250
+Central Area/Squire Park,88,American Indian & Alaska Native Alone,1400000US53033008800,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,3,3
+Central Area/Squire Park,88,Asian Alone,1400000US53033008800,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,5%,214,204
+Central Area/Squire Park,88,Native Hawaiian & Other Pacific Islander Alone,1400000US53033008800,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,0%,71,71
+Central Area/Squire Park,88,Some Other Race Alone,1400000US53033008800,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,231,231
+Central Area/Squire Park,88,2+ Races,1400000US53033008800,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,8%,173,160
+Cedar Park/Meadowbrook,9,White Alone,1400000US53033000900,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,1%,1015,1000
+Cedar Park/Meadowbrook,1,White Alone,1400000US53033000100,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,4%,3085,2947
+Cedar Park/Meadowbrook,8,White Alone,1400000US53033000800,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,5%,1387,1321
+Cedar Park/Meadowbrook,10,White Alone,1400000US53033001000,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,3%,878,850
+Cedar Park/Meadowbrook,9,Black / African American Alone,1400000US53033000900,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,7,7
+Cedar Park/Meadowbrook,1,Black / African American Alone,1400000US53033000100,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,15%,820,701
+Cedar Park/Meadowbrook,8,Black / African American Alone,1400000US53033000800,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,75,75
+Cedar Park/Meadowbrook,10,Black / African American Alone,1400000US53033001000,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,8%,156,144
+Cedar Park/Meadowbrook,9,American Indian & Alaska Native Alone,1400000US53033000900,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,5,5
+Cedar Park/Meadowbrook,1,American Indian & Alaska Native Alone,1400000US53033000100,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,36%,33,21
+Cedar Park/Meadowbrook,1,Asian Alone,1400000US53033000100,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,4%,786,752
+Cedar Park/Meadowbrook,1,Native Hawaiian & Other Pacific Islander Alone,1400000US53033000100,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,0%,51,51
+Cedar Park/Meadowbrook,1,Some Other Race Alone,1400000US53033000100,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,132,132
+Cedar Park/Meadowbrook,1,2+ Races,1400000US53033000100,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,3%,433,422
+Cedar Park/Meadowbrook,8,American Indian & Alaska Native Alone,1400000US53033000800,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Cedar Park/Meadowbrook,8,Asian Alone,1400000US53033000800,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,1%,150,149
+Cedar Park/Meadowbrook,8,Native Hawaiian & Other Pacific Islander Alone,1400000US53033000800,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Cedar Park/Meadowbrook,8,Some Other Race Alone,1400000US53033000800,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,16.48739,0,0
+Cedar Park/Meadowbrook,8,2+ Races,1400000US53033000800,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,11%,74,66
+Cedar Park/Meadowbrook,10,American Indian & Alaska Native Alone,1400000US53033001000,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Cedar Park/Meadowbrook,10,Asian Alone,1400000US53033001000,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,5%,219,209
+Cedar Park/Meadowbrook,10,Native Hawaiian & Other Pacific Islander Alone,1400000US53033001000,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Cedar Park/Meadowbrook,10,Some Other Race Alone,1400000US53033001000,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,16.48739,0,0
+Cedar Park/Meadowbrook,10,2+ Races,1400000US53033001000,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,76,76
+Cedar Park/Meadowbrook,9,Asian Alone,1400000US53033000900,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,145,145
+Cedar Park/Meadowbrook,9,Native Hawaiian & Other Pacific Islander Alone,1400000US53033000900,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,0%,9,9
+Cedar Park/Meadowbrook,9,Some Other Race Alone,1400000US53033000900,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,4,4
+Cedar Park/Meadowbrook,9,2+ Races,1400000US53033000900,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,18,18
+Cascade/Eastlake,66,White Alone,1400000US53033006600,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,2%,2956,2898
+Cascade/Eastlake,73,White Alone,1400000US53033007300,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,5%,3706,3510
+Cascade/Eastlake,72,White Alone,1400000US53033007200,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,6%,5637,5284
+Cascade/Eastlake,66,Black / African American Alone,1400000US53033006600,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,73,73
+Cascade/Eastlake,73,Black / African American Alone,1400000US53033007300,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,24%,607,461
+Cascade/Eastlake,72,Black / African American Alone,1400000US53033007200,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,16%,419,351
+Cascade/Eastlake,66,American Indian & Alaska Native Alone,1400000US53033006600,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,2,2
+Cascade/Eastlake,66,Asian Alone,1400000US53033006600,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,6%,479,448
+Cascade/Eastlake,66,Native Hawaiian & Other Pacific Islander Alone,1400000US53033006600,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Cascade/Eastlake,66,Some Other Race Alone,1400000US53033006600,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,5,5
+Cascade/Eastlake,66,2+ Races,1400000US53033006600,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,212,212
+Cascade/Eastlake,73,American Indian & Alaska Native Alone,1400000US53033007300,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,38%,8,5
+Cascade/Eastlake,73,Asian Alone,1400000US53033007300,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,2%,1453,1418
+Cascade/Eastlake,73,Native Hawaiian & Other Pacific Islander Alone,1400000US53033007300,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,0%,50,50
+Cascade/Eastlake,73,Some Other Race Alone,1400000US53033007300,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,4%,170,164
+Cascade/Eastlake,73,2+ Races,1400000US53033007300,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,5%,339,321
+Cascade/Eastlake,72,American Indian & Alaska Native Alone,1400000US53033007200,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,74%,123,32
+Cascade/Eastlake,72,Asian Alone,1400000US53033007200,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,5%,2450,2333
+Cascade/Eastlake,72,Native Hawaiian & Other Pacific Islander Alone,1400000US53033007200,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Cascade/Eastlake,72,Some Other Race Alone,1400000US53033007200,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,100%,5,0
+Cascade/Eastlake,72,2+ Races,1400000US53033007200,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,657,657
+Capitol Hill,75,White Alone,1400000US53033007500,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,5%,6563,6265
+Capitol Hill,84,White Alone,1400000US53033008400,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,2%,2761,2693
+Capitol Hill,74.01,White Alone,1400000US53033007401,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,7%,3637,3366
+Capitol Hill,74.02,White Alone,1400000US53033007402,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,6%,3789,3552
+Capitol Hill,75,Black / African American Alone,1400000US53033007500,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,21%,154,122
+Capitol Hill,84,Black / African American Alone,1400000US53033008400,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,15%,253,216
+Capitol Hill,74.01,Black / African American Alone,1400000US53033007401,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,91,91
+Capitol Hill,74.02,Black / African American Alone,1400000US53033007402,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,255,255
+Capitol Hill,75,American Indian & Alaska Native Alone,1400000US53033007500,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,120,120
+Capitol Hill,74.01,American Indian & Alaska Native Alone,1400000US53033007401,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Capitol Hill,74.01,Asian Alone,1400000US53033007401,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,5%,1022,966
+Capitol Hill,74.01,Native Hawaiian & Other Pacific Islander Alone,1400000US53033007401,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Capitol Hill,74.01,Some Other Race Alone,1400000US53033007401,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,16,16
+Capitol Hill,74.01,2+ Races,1400000US53033007401,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,19%,276,223
+Capitol Hill,74.02,American Indian & Alaska Native Alone,1400000US53033007402,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Capitol Hill,74.02,Asian Alone,1400000US53033007402,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,680,680
+Capitol Hill,74.02,Native Hawaiian & Other Pacific Islander Alone,1400000US53033007402,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Capitol Hill,74.02,Some Other Race Alone,1400000US53033007402,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,100%,60,0
+Capitol Hill,74.02,2+ Races,1400000US53033007402,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,15%,340,288
+Capitol Hill,84,American Indian & Alaska Native Alone,1400000US53033008400,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,100%,13,0
+Capitol Hill,84,Asian Alone,1400000US53033008400,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,5%,796,760
+Capitol Hill,75,Asian Alone,1400000US53033007500,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,14%,673,582
+Capitol Hill,84,Native Hawaiian & Other Pacific Islander Alone,1400000US53033008400,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,0%,39,39
+Capitol Hill,75,Native Hawaiian & Other Pacific Islander Alone,1400000US53033007500,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Capitol Hill,84,Some Other Race Alone,1400000US53033008400,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,77,77
+Capitol Hill,75,Some Other Race Alone,1400000US53033007500,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,11%,237,211
+Capitol Hill,84,2+ Races,1400000US53033008400,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,166,166
+Capitol Hill,75,2+ Races,1400000US53033007500,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,619,619
+Broadview/Bitter Lake,4.01,White Alone,1400000US53033000401,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,6%,2624,2464
+Broadview/Bitter Lake,5,White Alone,1400000US53033000500,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,3%,1527,1485
+Broadview/Bitter Lake,4.02,White Alone,1400000US53033000402,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,10%,2668,2405
+Broadview/Bitter Lake,4.01,Black / African American Alone,1400000US53033000401,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,20%,596,475
+Broadview/Bitter Lake,5,Black / African American Alone,1400000US53033000500,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,22,22
+Broadview/Bitter Lake,4.02,Black / African American Alone,1400000US53033000402,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,122,122
+Broadview/Bitter Lake,4.01,American Indian & Alaska Native Alone,1400000US53033000401,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,100%,35,0
+Broadview/Bitter Lake,5,American Indian & Alaska Native Alone,1400000US53033000500,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Broadview/Bitter Lake,4.02,American Indian & Alaska Native Alone,1400000US53033000402,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,14,14
+Broadview/Bitter Lake,4.01,Asian Alone,1400000US53033000401,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,801,801
+Broadview/Bitter Lake,4.01,Native Hawaiian & Other Pacific Islander Alone,1400000US53033000401,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Broadview/Bitter Lake,4.01,Some Other Race Alone,1400000US53033000401,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,21,21
+Broadview/Bitter Lake,4.01,2+ Races,1400000US53033000401,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,20%,272,218
+Broadview/Bitter Lake,4.02,Asian Alone,1400000US53033000402,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,14%,328,283
+Broadview/Bitter Lake,4.02,Native Hawaiian & Other Pacific Islander Alone,1400000US53033000402,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,0%,14,14
+Broadview/Bitter Lake,4.02,Some Other Race Alone,1400000US53033000402,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,109,109
+Broadview/Bitter Lake,4.02,2+ Races,1400000US53033000402,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,214,214
+Broadview/Bitter Lake,5,Asian Alone,1400000US53033000500,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,132,132
+Broadview/Bitter Lake,5,Native Hawaiian & Other Pacific Islander Alone,1400000US53033000500,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Broadview/Bitter Lake,5,Some Other Race Alone,1400000US53033000500,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,16.48739,0,0
+Broadview/Bitter Lake,5,2+ Races,1400000US53033000500,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,30%,44,31
+Belltown,80.01,White Alone,1400000US53033008001,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,2%,3941,3843
+Belltown,80.02,White Alone,1400000US53033008002,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,5%,1941,1836
+Belltown,80.01,Black / African American Alone,1400000US53033008001,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,121,121
+Belltown,80.02,Black / African American Alone,1400000US53033008002,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,2%,328,323
+Belltown,80.01,American Indian & Alaska Native Alone,1400000US53033008001,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,100%,21,0
+Belltown,80.02,American Indian & Alaska Native Alone,1400000US53033008002,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,43%,47,27
+Belltown,80.02,Asian Alone,1400000US53033008002,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,486,486
+Belltown,80.02,Native Hawaiian & Other Pacific Islander Alone,1400000US53033008002,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Belltown,80.02,Some Other Race Alone,1400000US53033008002,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,60,60
+Belltown,80.02,2+ Races,1400000US53033008002,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,196,196
+Belltown,80.01,Asian Alone,1400000US53033008001,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,2%,1786,1742
+Belltown,80.01,Native Hawaiian & Other Pacific Islander Alone,1400000US53033008001,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Belltown,80.01,Some Other Race Alone,1400000US53033008001,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,82,82
+Belltown,80.01,2+ Races,1400000US53033008001,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,33%,352,237
+Beacon Hill,104.01,White Alone,1400000US53033010401,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,3%,791,769
+Beacon Hill,104.02,White Alone,1400000US53033010402,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,6%,1005,946
+Beacon Hill,104.01,Black / African American Alone,1400000US53033010401,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,17%,276,230
+Beacon Hill,104.02,Black / African American Alone,1400000US53033010402,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,175,175
+Beacon Hill,104.02,American Indian & Alaska Native Alone,1400000US53033010402,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Beacon Hill,104.02,Asian Alone,1400000US53033010402,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,9%,1840,1679
+Beacon Hill,104.02,Native Hawaiian & Other Pacific Islander Alone,1400000US53033010402,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Beacon Hill,104.02,Some Other Race Alone,1400000US53033010402,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,14%,200,172
+Beacon Hill,104.02,2+ Races,1400000US53033010402,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,196,196
+Beacon Hill,104.01,American Indian & Alaska Native Alone,1400000US53033010401,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Beacon Hill,104.01,Asian Alone,1400000US53033010401,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,5%,1458,1380
+Beacon Hill,104.01,Native Hawaiian & Other Pacific Islander Alone,1400000US53033010401,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Beacon Hill,104.01,Some Other Race Alone,1400000US53033010401,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,68%,231,74
+Beacon Hill,104.01,2+ Races,1400000US53033010401,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,6%,130,122
+Ballard,47,White Alone,1400000US53033004700,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,7%,6485,6026
+Ballard,47,Black / African American Alone,1400000US53033004700,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,138,138
+Ballard,47,American Indian & Alaska Native Alone,1400000US53033004700,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,19.31579,0,0
+Ballard,47,Asian Alone,1400000US53033004700,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,821,818
+Ballard,47,Native Hawaiian & Other Pacific Islander Alone,1400000US53033004700,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Ballard,47,Some Other Race Alone,1400000US53033004700,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,5%,56,53
+Ballard,47,2+ Races,1400000US53033004700,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,366,366
+Arbor Heights,120,White Alone,1400000US53033012000,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,5%,1983,1883
+Arbor Heights,121,White Alone,1400000US53033012100,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,0%,1295,1289
+Arbor Heights,120,Black / African American Alone,1400000US53033012000,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,175,175
+Arbor Heights,121,Black / African American Alone,1400000US53033012100,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,51,51
+Arbor Heights,121,American Indian & Alaska Native Alone,1400000US53033012100,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,12,12
+Arbor Heights,121,Asian Alone,1400000US53033012100,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,88,88
+Arbor Heights,121,Native Hawaiian & Other Pacific Islander Alone,1400000US53033012100,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Arbor Heights,121,Some Other Race Alone,1400000US53033012100,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,5%,21,20
+Arbor Heights,121,2+ Races,1400000US53033012100,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,44,44
+Arbor Heights,120,American Indian & Alaska Native Alone,1400000US53033012000,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,49%,37,19
+Arbor Heights,120,Asian Alone,1400000US53033012000,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,7%,73,68
+Arbor Heights,120,Native Hawaiian & Other Pacific Islander Alone,1400000US53033012000,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Arbor Heights,120,Some Other Race Alone,1400000US53033012000,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,42,42
+Arbor Heights,120,2+ Races,1400000US53033012000,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,144,144
+Alki/Admiral,96,White Alone,1400000US53033009600,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,1%,3176,3159
+Alki/Admiral,97.01,White Alone,1400000US53033009701,Cleaned_ACS_Data/ACSDT5Y2018.C27001A_data_with_overlays_2020-08-24T203041.csv,9%,3471,3153
+Alki/Admiral,96,Black / African American Alone,1400000US53033009600,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,74,74
+Alki/Admiral,97.01,Black / African American Alone,1400000US53033009701,Cleaned_ACS_Data/ACSDT5Y2018.C27001B_data_with_overlays_2020-08-24T203041.csv,0%,17,17
+Alki/Admiral,96,American Indian & Alaska Native Alone,1400000US53033009600,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,21,21
+Alki/Admiral,97.01,American Indian & Alaska Native Alone,1400000US53033009701,Cleaned_ACS_Data/ACSDT5Y2018.C27001C_data_with_overlays_2020-08-24T203041.csv,0%,33,33
+Alki/Admiral,96,Asian Alone,1400000US53033009600,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,243,243
+Alki/Admiral,96,Native Hawaiian & Other Pacific Islander Alone,1400000US53033009600,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Alki/Admiral,96,Some Other Race Alone,1400000US53033009600,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,54,54
+Alki/Admiral,96,2+ Races,1400000US53033009600,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,32%,122,83
+Alki/Admiral,97.01,Asian Alone,1400000US53033009701,Cleaned_ACS_Data/ACSDT5Y2018.C27001D_data_with_overlays_2020-08-24T203041.csv,0%,323,323
+Alki/Admiral,97.01,Native Hawaiian & Other Pacific Islander Alone,1400000US53033009701,Cleaned_ACS_Data/ACSDT5Y2018.C27001E_data_with_overlays_2020-08-24T203041.csv,3.244444,0,0
+Alki/Admiral,97.01,Some Other Race Alone,1400000US53033009701,Cleaned_ACS_Data/ACSDT5Y2018.C27001F_data_with_overlays_2020-08-24T203041.csv,0%,55,55
+Alki/Admiral,97.01,2+ Races,1400000US53033009701,Cleaned_ACS_Data/ACSDT5Y2018.C27001G_data_with_overlays_2020-08-24T203041.csv,0%,197,197
