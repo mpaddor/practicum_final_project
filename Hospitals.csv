@@ -1,0 +1,20 @@
+X,Y,OBJECTID,FACILITY,ADDRESS,SE_ANNO_CAD_DATA,CITY,ACUTE_CARE,GIS_EDT_DT,URL,TELEPHONE
+-122.3368881,47.71424826,1,UW Medical Center - Northwest,1550 N 115th ST,,"Seattle, WA, 98133-8401",Y,2020/03/17 00:00:00+00,https://www.uwmedicine.org/locations/northwest-hospital,877-694-4677
+-122.3795553,47.66736501,2,Swedish Medical Center - Ballard Campus,5300 Tallman Ave NW,,"Seattle, WA 98107",Y,2020/03/17 00:00:00+00,https://www.swedish.org/locations/ballard-campus,206-782-2700
+-122.3414186,47.45779976,3,Highline Medical Center,16251 Sylvester Rd SW,,"Burien, WA, 98166-3017",Y,2020/03/17 00:00:00+00,https://www.chifranciscan.org/highline-medical-center.html,206-244-9970
+-122.2141209,47.44227326,4,Valley Medical Center,400 S 43rd St,,"Renton, WA, 98055-5714",Y,2020/03/17 00:00:00+00,https://www.uwmedicine.org/locations/valley-medical-center#main-tab,425-690-1000
+-122.3272788,47.29261206,5,St. Francis Hospital,34515 9th Ave S,,"Federal Way, WA, 98003-6761",Y,2020/03/17 00:00:00+00,https://www.chifranciscan.org/st-francis-hospital.html,253-835-8100
+-121.8853598,47.51238657,6,Snoqualmie Valley Hospital,9801 Frontier Ave SE,,"Snoqualmie, WA, 98065-5200",Y,2020/03/17 00:00:00+00,http://snoqualmiehospital.org/services/hospital-patients-and-families/,425-831-2300
+-122.3219276,47.60884203,7,Swedish Medical Center - First Hill,747 Broadway,,"Seattle, WA, 98122-4379",Y,2020/03/17 00:00:00+00,https://www.swedish.org/locations/first-hill-campus,206-386-6000
+-122.2288856,47.30929088,8,MultiCare  Auburn Medical Center,202 N Division St,,"Auburn, WA, 98001-4939",Y,2020/03/17 00:00:00+00,https://www.multicare.org/auburn-medical-center/,253-833-7711
+-122.1876884,47.62149342,9,Overlake Hospital Medical Center,1035 116th Ave NE,,"Bellevue, WA, 98004-4604",Y,2020/03/17 00:00:00+00,https://www.overlakehospital.org/,425-688-5000
+-122.2814579,47.66231302,10,Seattle Children's Hospital,4800 Sand Point Way NE,,"Seattle, WA, 98105-3901",Y,2020/03/17 00:00:00+00,https://www.seattlechildrens.org/,206-987-2000
+-122.3279301,47.60953031,12,Virginia Mason Medical Center,1100 9th St,,"Seattle, WA, 98101-2742",Y,2020/03/18 00:00:00+00,https://www.virginiamason.org/seattle,206-223-6600
+-122.1787069,47.71581098,13,EvergreenHealth - Kirkland,12040 NE 128th St,,"Kirkland, WA, 98034-3013",Y,2020/03/17 00:00:00+00,https://www.evergreenhealth.com/,425-899-2621
+-122.3096564,47.60705478,14,Swedish Medical Center - Cherry Hill,500 17th Ave,,"Seattle, WA, 98122-5711",Y,2020/03/17 00:00:00+00,https://www.swedish.org/locations/cherry-hill-campus,206-320-2000
+-122.3091692,47.56245387,15,Seattle VA Medical Center,1660 S Columbian Way,,"Seattle, WA 98108",Y,2020/03/17 00:00:00+00,https://www.pugetsound.va.gov/locations/directions.asp,800-329-8387 Ext.71234
+-122.0219298,47.53610583,16,Swedish Medical Center - Issaquah Campus,751 NE Blakely Dr,,"Issaquah, WA, 98029-6201",Y,2020/03/17 00:00:00+00,https://www.swedish.org/locations/issaquah-campus,425-313-4000
+-122.3122755,47.62013575,17,Kaiser Permanente Capitol Hill Campus,201 16th Ave E ,,"Seattle, WA, 98112-5226",N,2020/03/17 00:00:00+00,https://wa.kaiserpermanente.org/html/public/locations/capitol-hill,1-800-562-6300
+-121.9877597,47.20918006,18,St. Elizabeth Hospital,1455 Battersby Ave,,"Enumclaw, WA, 98022-3634",Y,2020/03/17 00:00:00+00,https://www.chifranciscan.org/st-elizabeth-hospital.html,360-802-8800
+-122.3237689,47.60399304,19,Harborview Medical Center,325 9th Ave,,"Seattle, WA, 98104-2420",Y,2020/03/17 00:00:00+00,https://www.uwmedicine.org/locations/harborview-medical-center,206-744-3000
+-122.3090723,47.65034412,20,University of Washington Medical Center,1959 NE Pacific St,,"Seattle, WA, 98195-0001",Y,2020/03/17 00:00:00+00,https://www.uwmedicine.org/locations/uw-medical-center,206-598-3300
